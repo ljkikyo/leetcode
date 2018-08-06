@@ -2,6 +2,7 @@
  * @param {number[]} nums
  * @param {number} target
  * @return {boolean}
+ * @enum { 81}
  */
 var search = function(nums, target) {
 	var left = 0;
